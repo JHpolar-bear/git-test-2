@@ -62,4 +62,4 @@ git commit -m "Add email validation to signup"
 
 ```
 
-# Rabbit rabbit bear bear
+# Rabbit rabbit bear bear seal
